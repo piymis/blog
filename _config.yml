@@ -10,8 +10,8 @@ baseurl: "/blog" # apply repo name if use it under gh-pages branch
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/piymis/blog
-disqus_shortname: "hnbloggithub"
-twitter_username: "HeiswayiNrird"
+disqus_shortname: "piymis-github-io"
+twitter_username: "piy_mis"
 comments: true
 
 # Build settings
